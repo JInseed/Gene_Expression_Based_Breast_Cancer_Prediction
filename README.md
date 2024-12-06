@@ -16,7 +16,7 @@
 <br>
 
 ### 역할
-> **EDA,  Data Processing, Modeling, ppt 작성**
+> **EDA,  Data Preprocessing, Modeling, ppt 작성**
 <br>
 
 ## 분석 주제
@@ -27,7 +27,7 @@
 ## 분석 요약
 
 1. EDA
-2. Data Processing
+2. Data Preprocessing
     1. 변수 선택(Levene’s test, Shapiro Wilks test, Student t-test, Wilcoxon rank sum test)
     2. PCA, ICA
 3. Modeling
@@ -38,7 +38,7 @@
 
 ## 분석 과정
 
-### *EDA&Data Processing*
+### *EDA&Data Preprocessing*
 <br>
 
 <table width="100%">
